@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>res/images/zu.jpg</file>
+        <file>res/images/kataf.png</file>
+        <file>res/images/bita.png</file>
+        <file>res/images/zu-10.png</file>
+        <file>res/images/zu-40.png</file>
+        <file>res/images/zu-70.png</file>
+        <file>res/images/grob.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>res/sounds/damage.mp3</file>
+        <file>res/sounds/sad-song.mp3</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+apple	fruit
+cucumber	vegetables
+pineapple	fruit
+pork	meat
+rice	croup
+tomato	vegetables

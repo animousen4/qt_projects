@@ -1,0 +1,3 @@
+banana fruit 2
+butter dairy 3
+apple fruit 1

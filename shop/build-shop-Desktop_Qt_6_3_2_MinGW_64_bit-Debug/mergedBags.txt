@@ -1,0 +1,4 @@
+apple fruit	1
+banana fruit	2
+butter dairy	3
+potato vegetables	3

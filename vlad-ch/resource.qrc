@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/pictures">
+        <file>zubovich.jpg</file>
+        <file>catafalk.oW2pp.png</file>
+        <file>zubovich1.jpg</file>
+        <file>zubovich2.jpg</file>
+        <file>zubovich3.jpg</file>
+        <file>bita.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>hit.mp3</file>
+        <file>death.mp3</file>
+    </qresource>
+</RCC>

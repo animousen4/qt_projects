@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>res-data/default_avatar.png</file>
+        <file>res-data/wreath.png</file>
+    </qresource>
+    <qresource prefix="/participants-images">
+        <file>res-data/default-participants/danila.jpg</file>
+        <file>res-data/default-participants/ilona.jpg</file>
+        <file>res-data/default-participants/ilyaK.png</file>
+        <file>res-data/default-participants/ilyaM.jpg</file>
+        <file>res-data/default-participants/kirill.png</file>
+        <file>res-data/default-participants/uliana.jpg</file>
+        <file>res-data/default-participants/vlad.jpg</file>
+    </qresource>
+</RCC>

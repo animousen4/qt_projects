@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>wreath.png</file>
+        <file>default_avatar.png</file>
+    </qresource>
+</RCC>

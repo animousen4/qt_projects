@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/music">
+        <file>fail.mp3</file>
+        <file>win.mp3</file>
+    </qresource>
+    <qresource prefix="/pictures">
+        <file>kirill.dXLHM.png</file>
+        <file>kisspng-laurel-wreath-vector-graphics-clip-art-bay-laurel-5cf5bc8a177d83_6350549615596084580962.QVRSy.png</file>
+        <file>egory.Lkw9m.jpg</file>
+        <file>msg-811911354-32161.cdx8v.jpg</file>
+        <file>msg-811911354-32162.xuPbj.jpg</file>
+        <file>msg-811911354-32164.Ib0Vo.jpg</file>
+        <file>msg-811911354-32165.qigM7.jpg</file>
+        <file>msg1218783088-32416.VUC07.jpg</file>
+        <file>peatya.iYugU.jpg</file>
+        <file>vlad.r50bC.jpg</file>
+    </qresource>
+</RCC>
